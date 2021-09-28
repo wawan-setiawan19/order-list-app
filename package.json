@@ -1,0 +1,27 @@
+{
+  "name": "order-list-app",
+  "version": "1.0.0",
+  "description": "this is my first project using electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wawan-setiawan19/order-list-app.git"
+  },
+  "keywords": [
+    "order",
+    "list"
+  ],
+  "author": "one19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wawan-setiawan19/order-list-app/issues"
+  },
+  "homepage": "https://github.com/wawan-setiawan19/order-list-app#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
